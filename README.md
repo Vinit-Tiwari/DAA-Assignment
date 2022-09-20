@@ -141,5 +141,4 @@ Starting index of maximum sum array:  1
 End index of maximum sum array:  8
 Sum of maximun sum array:  170
 
-..............................................................
 ```
